@@ -27,7 +27,7 @@
   <script src="script.js"></script>
   <h2>Conversion</h2>
   <fieldset>
-     <input type="number" id="tbsp" name="tbsp" placeholder="tablespoons"> =   <input type="number" id="cups" name="cups" placeholder="cups">
+     <input type="text" id="tbsp" name="tbsp" placeholder="tablespoons"> =   <input type="text" id="cups" name="cups" placeholder="cups">
   </fieldset>
   <h2>Rate This Recipe</h2>
   <fieldset>
