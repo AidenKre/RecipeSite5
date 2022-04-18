@@ -51,6 +51,7 @@
     <li>Garnish with an orange peel.</li>
   </ol> <-->
   <hr>
-  <p>The page created as academic activity only.</p>
+  <p><a href="../index.html">Back to the Main Page</a>
+  <span style="float:right;">This page created as academic activity only.</span></p>
   </body>
 </html>
